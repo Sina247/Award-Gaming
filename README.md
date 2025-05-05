@@ -4,7 +4,7 @@
 - React.js
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
 👉 **Scroll-Based Animations**: Dynamic animations triggered by scrolling for a more engaging user experience.
 
@@ -20,7 +20,7 @@
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
